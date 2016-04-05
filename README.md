@@ -1,6 +1,6 @@
 # gmaps-laravel
 
-Google Map - List of nearest Restaurants and their driving direction from users current location
+List of nearest restaurants and their driving direction from users current location
 
 # Used
 

@@ -9,3 +9,7 @@ HTML 5 Geolocation and Google Map API
 # Installation
 
 composer update
+
+# Browser
+
+http://localhost/gmaps/public/map
